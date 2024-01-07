@@ -40,6 +40,8 @@ I've created this project for practicing two activities:
 1. Simple Page based on Static Site Generator and publishing (for example: GitHub Pages, GitLab Pages, etc).
 2. Sharing what I've learned during testing generating Images by =AI=.
 
+** List of images
+
 * Images
 
 ** 001 Human vs AI - 01
@@ -50,12 +52,122 @@ Realistic image with two sailing ships fighting to each other on the
 see. Sky is having storm in background. One ship will have Human logo
 on sails and second will have AI logo on sails
 
-*** Link to generator
-
-- [[https://www.bing.com/images/create/realistic-image-with-two-sailing-ships-fighting-to/1-65972c5834fb4fd0810413e237795627?FORM=GENCRE][Link]]
-
 *** Downloaded images
 
 **** 001-1
 
 [[./img/001-1.jpeg]]
+
+** 002 Human vs AI - 02
+
+*** AI Prompt
+
+Realistic image of programmer sitting in front of many monitors. On left
+side of monitors that should be `manual-creative` sentence
+visible on screens, and on right side of monitors that should be
+`AI-not-creative` sentence visible. Programmer is having dilemma which
+to use.
+
+*** Notes
+
+Iteresting that this image is having a human with three hands - that was not something in AI Prompt.
+
+*** Downloaded images
+
+**** 002-1
+
+[[./img/002-1.jpeg]]
+
+** 003 Sailship VS Spaceship
+
+*** AI Prompt
+
+Realistic image with sailing ship and space ship fighting to each
+other on the sea and space. Sea should change to space smoothly. That
+should be storm in background.
+
+*** Notes
+
+I have to say that I really like those images (all four of them).
+
+Howver I like the most =003-2= and =003.3= - this is something interesting to see on one picture.
+
+*** Downloaded images
+
+**** 003-1
+
+[[./img/003-1.jpeg]]
+
+**** 003-2
+
+[[./img/003-2.jpeg]]
+
+**** 003-3
+
+[[./img/003-3.jpeg]]
+
+**** 003-4
+
+[[./img/003-4.jpeg]]
+
+** 007 - Computer with holograms
+
+*** AI Prompt
+
+Modern computer with holograms. Bacground should have some interesting nature with waterfall and forest. Realistic image.
+
+*** Notes
+
+*** Downloaded images
+
+**** 007-1
+
+[[./img/007-1.jpeg]]
+
+**** 007-2
+
+[[./img/007-2.jpeg]]
+
+** 008 Clock as hologram
+
+*** AI Prompt
+
+Clock as hologram
+
+*** Notes
+
+I like it - good for some ideas.
+
+*** Downloaded images
+
+**** 008-1.jpeg
+
+[[./img/008-1.jpeg]]
+
+** 009 Elsa
+
+*** AI Prompt
+
+Realistic Image of Elsa from frozen 2 which is making frozen sea, action should happen at night with very nice visible moon and little clouds.
+
+*** Notes
+
+I really like how this was generated - that was for my 4-years daugther.
+
+*** Downloaded images
+
+**** 009-1.jpeg
+
+[[./img/009-1.jpeg]]
+
+**** 009-2.jpeg
+
+[[./img/009-2.jpeg]]
+
+**** 009-3.jpeg
+
+[[./img/009-3.jpeg]]
+
+**** 009-4.jpeg
+
+[[./img/009-4.jpeg]]
