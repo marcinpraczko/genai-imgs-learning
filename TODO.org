@@ -1,0 +1,77 @@
+* Configuration of this file                                       :noexport:
+
+#+COMMENT: This header is generated from yasnippet (main-header)
+#+COMMENT: version: 0.1.0
+
+#+TODO: TODO(t) NEXT(x) WIP(i) WAIT(w) | DONE(d!) CANCELED(c@)
+
+#+TITLE:     Simple Backlog for genai-imgs-learning project
+#+AUTHOR:    Marcin Praczko
+#+EMAIL:     marcin.praczko@gmail.com
+#+DATE:      2024-01-11
+
+#+COLUMNS: %PRIORITY(PR) %40ITEM(Task) %TAGS %TODO %CLOCKSUM %CLICKUP
+
+#+DESCRIPTION: Simple backlog for this project to keep details what needs to be done
+#+KEYWORDS:
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:nil -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:
+#+LINK_HOME:
+#+XSLT:
+
+#+SETUPFILE: ~/myworkspace/Development/Public/org-html-themes/org-html-themes/org/theme-readtheorg-local.setup
+#+HTML_HEAD: <style> #content{max-width:1800px;}</style>
+#+HTML_HEAD: <style> p{max-width:800px;}</style>
+#+HTML_HEAD: <style> li{max-width:800px;}</style
+
+* Table of content                                                 :noexport:
+
+* Backlog
+
+Simple backlog - more complex tasks will be added as Issues in GitHub
+
+** TODO [/] [%] Goal-01 - Page migrated from org-mode to Sphinx+ABLOG
+
+*** TODO 001 - [/] Create initial sphinx+ablog config
+:PROPERTIES:
+:ID:       001
+:END:
+
+*** TODO 002 - [/] Add first post with images - migrate from ORG
+:PROPERTIES:
+:ID:       002
+:END:
+
+*** TODO 003 - [/] Add others post - migrate from ORG
+:PROPERTIES:
+:ID:       003
+:END:
+
+*** TODO 004 - [/] Add vscode snippets - for faster work
+:PROPERTIES:
+:ID:       004
+:END:
+
+*** TODO 005 - [/] Publish in GH Pages
+:PROPERTIES:
+:ID:       005
+:END:
+
+*** TODO 006 - [/] Write simple Makefile - speed of work
+:PROPERTIES:
+:ID:       006
+:END:
+
+*** TODO 007 - [/] Add scripts for creating python venv
+:PROPERTIES:
+:ID:       007
+:END:
+
+- [ ] For now project will have manual venv creation
+- [ ] However would be nice to have automated script
+- [ ] Attach automated script to Makefile
