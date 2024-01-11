@@ -24,11 +24,6 @@
 #+LINK_HOME:
 #+XSLT:
 
-#+SETUPFILE: ~/myworkspace/Development/Public/org-html-themes/org-html-themes/org/theme-readtheorg-local.setup
-#+HTML_HEAD: <style> #content{max-width:1800px;}</style>
-#+HTML_HEAD: <style> p{max-width:800px;}</style>
-#+HTML_HEAD: <style> li{max-width:800px;}</style
-
 * Table of content                                                 :noexport:
 
 * Backlog
@@ -52,19 +47,12 @@ Simple backlog - more complex tasks will be added as Issues in GitHub
 :END:
 
 - State "DONE"       from "WIP"        [2024-01-11 czw 10:41]
-*** DONE 003 - [7/7] Add others post - migrate from ORG
+*** DONE 003 - [/] Add others post - migrate from ORG
 :PROPERTIES:
 :ID:       003
 :END:
 
 - State "DONE"       from "WIP"        [2024-01-11 czw 11:44]
-- [X] 002 Human vs AI - 02
-- [X] 003 Sailship VS Spaceship
-- [X] 007 - Computer with holograms -> 004
-- [X] 008 Clock as hologram -> 005
-- [X] 009 Elsa ->  006
-- [X] 010 Dart Vader VS Luke (Flash) - > 007
-- [X] 011 Golden Knight -> 008
 
 *** TODO 004 - [/] Add vscode snippets - for faster work
 :PROPERTIES:
