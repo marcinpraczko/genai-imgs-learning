@@ -43,20 +43,6 @@ I've created this project for practicing two activities:
 
 * Images
 
-** 001 Human vs AI - 01
-
-*** AI Prompt
-
-Realistic image with two sailing ships fighting to each other on the
-see. Sky is having storm in background. One ship will have Human logo
-on sails and second will have AI logo on sails
-
-*** Downloaded images
-
-**** 001-1
-
-[[./img/001-1.jpeg]]
-
 ** 002 Human vs AI - 02
 
 *** AI Prompt

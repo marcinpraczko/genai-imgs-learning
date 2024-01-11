@@ -14,15 +14,22 @@ release = '0.1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    "ablog",
+    "sphinx.ext.intersphinx",
+    "sphinx_panels",
+]
 
-templates_path = ['_templates']
-exclude_patterns = []
-
-
-
-# -- Options for HTML output -------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-
-html_theme = 'alabaster'
+html_theme = "pydata_sphinx_theme"
 html_static_path = ['_static']
+
+# -- ABLOG --
+post_auto_image = 1
+html_theme_options = {
+    "navigation_with_keys": False
+}
+html_sidebars = {
+   '**': ['ablog/postcard.html', 'ablog/recentposts.html',
+          'ablog/tagcloud.html', 'ablog/categories.html',
+          'ablog/archives.html', ]
+}

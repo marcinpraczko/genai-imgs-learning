@@ -35,14 +35,18 @@
 
 Simple backlog - more complex tasks will be added as Issues in GitHub
 
-** TODO [/] [%] Goal-01 - Page migrated from org-mode to Sphinx+ABLOG
+** TODO [1/7] [14%] Goal-01 - Page migrated from org-mode to Sphinx+ABLOG
 
-*** TODO 001 - [/] Create initial sphinx+ablog config
+*** DONE 001 - [2/2] Create initial sphinx+ablog config
 :PROPERTIES:
 :ID:       001
 :END:
 
-*** TODO 002 - [/] Add first post with images - migrate from ORG
+- State "DONE"       from "WIP"        [2024-01-11 czw 10:14]
+- [X] Add sphinx in venv
+- [X] add proper configuration of ablog
+
+*** WIP 002 - [/] Add first post with images - migrate from ORG
 :PROPERTIES:
 :ID:       002
 :END:
@@ -67,11 +71,11 @@ Simple backlog - more complex tasks will be added as Issues in GitHub
 :ID:       006
 :END:
 
-*** TODO 007 - [/] Add scripts for creating python venv
+*** TODO 007 - [1/3] Add scripts for creating python venv
 :PROPERTIES:
 :ID:       007
 :END:
 
-- [ ] For now project will have manual venv creation
+- [X] For now project will have manual venv creation
 - [ ] However would be nice to have automated script
 - [ ] Attach automated script to Makefile

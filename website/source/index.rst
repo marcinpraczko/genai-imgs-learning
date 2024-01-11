@@ -1,20 +1,18 @@
-.. Learning to use Generative AI for images documentation master file, created by
-   sphinx-quickstart on Thu Jan 11 10:07:39 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Learning to use Generative AI for images
+========================================
 
-Welcome to Learning to use Generative AI for images's documentation!
-====================================================================
+Welcome to this page.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+I've created this page/blog for describing what I've learned about Generative AI used for creating images.
+Here should be some examples what I've tested and hopefully some context how to work with Gen AI Images
+for effectively.
 
+Recent Posts
+------------
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. postlist:: 10
+   :author: marcinpraczko
+   :date: %Y-%m-%d
+   :format: {date} - {title}
+   :list-style: none
+   :excerpts:
