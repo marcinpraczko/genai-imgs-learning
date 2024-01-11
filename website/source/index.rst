@@ -3,9 +3,10 @@ Learning to use Generative AI for images
 
 Welcome to this page.
 
-I've created this page/blog for describing what I've learned about Generative AI used for creating images.
-Here should be some examples what I've tested and hopefully some context how to work with Gen AI Images
-for effectively.
+I've created this project for practicing two activities:
+
+1. Simple Page based on Static Site Generator and publishing (for example: GitHub Pages, GitLab Pages, etc).
+2. Sharing what I've learned during testing generating Images by **AI**.
 
 Recent Posts
 ------------

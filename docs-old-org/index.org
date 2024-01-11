@@ -31,16 +31,6 @@
 
 * Table of content                                                 :noexport:
 
-* General info
-
-** Why I created this page
-
-I've created this project for practicing two activities:
-
-1. Simple Page based on Static Site Generator and publishing (for example: GitHub Pages, GitLab Pages, etc).
-2. Sharing what I've learned during testing generating Images by =AI=.
-
-
 * Images
 
 ** 002 Human vs AI - 02

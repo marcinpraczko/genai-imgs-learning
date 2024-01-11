@@ -3,19 +3,20 @@
 ========================
 
 .. post:: Jan 11, 2024
-   :tags:
-   :category:
-
+   :tags: Transport
+   :category: Realistic Images
+   :author: Marcin Prączko
+   :language: en
 
 AI Prompt
 ---------
 
-Realistic image with two sailing ships fighting to each other on the
-see. Sky is having storm in background. One ship will have Human logo
-on sails and second will have AI logo on sails
+   Realistic image with two sailing ships fighting to each other on the
+   see. Sky is having storm in background. One ship will have Human logo
+   on sails and second will have AI logo on sails
 
-Downloaded images
------------------
+Generated images
+----------------
 
 001-1
 +++++

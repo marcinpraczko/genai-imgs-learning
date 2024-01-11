@@ -35,7 +35,7 @@
 
 Simple backlog - more complex tasks will be added as Issues in GitHub
 
-** TODO [1/7] [14%] Goal-01 - Page migrated from org-mode to Sphinx+ABLOG
+** TODO [2/7] [28%] Goal-01 - Page migrated from org-mode to Sphinx+ABLOG
 
 *** DONE 001 - [2/2] Create initial sphinx+ablog config
 :PROPERTIES:
@@ -46,15 +46,19 @@ Simple backlog - more complex tasks will be added as Issues in GitHub
 - [X] Add sphinx in venv
 - [X] add proper configuration of ablog
 
-*** WIP 002 - [/] Add first post with images - migrate from ORG
+*** DONE 002 - [/] Add first post with images - migrate from ORG
 :PROPERTIES:
 :ID:       002
 :END:
 
-*** TODO 003 - [/] Add others post - migrate from ORG
+- State "DONE"       from "WIP"        [2024-01-11 czw 10:41]
+*** WIP 003 - [/] Add others post - migrate from ORG
 :PROPERTIES:
 :ID:       003
 :END:
+
+- [ ] 002 Human vs AI - 02
+- [ ]
 
 *** TODO 004 - [/] Add vscode snippets - for faster work
 :PROPERTIES:
