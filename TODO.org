@@ -35,7 +35,7 @@
 
 Simple backlog - more complex tasks will be added as Issues in GitHub
 
-** TODO [2/7] [28%] Goal-01 - Page migrated from org-mode to Sphinx+ABLOG
+** TODO [3/7] [42%] Goal-01 - Page migrated from org-mode to Sphinx+ABLOG
 
 *** DONE 001 - [2/2] Create initial sphinx+ablog config
 :PROPERTIES:
@@ -52,18 +52,19 @@ Simple backlog - more complex tasks will be added as Issues in GitHub
 :END:
 
 - State "DONE"       from "WIP"        [2024-01-11 czw 10:41]
-*** WIP 003 - [6/6] Add others post - migrate from ORG
+*** DONE 003 - [7/7] Add others post - migrate from ORG
 :PROPERTIES:
 :ID:       003
 :END:
 
+- State "DONE"       from "WIP"        [2024-01-11 czw 11:44]
 - [X] 002 Human vs AI - 02
 - [X] 003 Sailship VS Spaceship
 - [X] 007 - Computer with holograms -> 004
 - [X] 008 Clock as hologram -> 005
 - [X] 009 Elsa ->  006
 - [X] 010 Dart Vader VS Luke (Flash) - > 007
-- [ ] 011 Golden Knight -> 008
+- [X] 011 Golden Knight -> 008
 
 *** TODO 004 - [/] Add vscode snippets - for faster work
 :PROPERTIES:

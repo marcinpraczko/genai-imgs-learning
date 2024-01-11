@@ -1,6 +1,6 @@
 
-006 Elsa Test-01
-================
+006: Elsa Test-01
+=================
 
 .. post:: Jan 11, 2024
    :tags: characters, elsa
