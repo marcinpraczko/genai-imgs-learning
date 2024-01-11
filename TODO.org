@@ -77,3 +77,10 @@ Simple backlog - more complex tasks will be added as Issues in GitHub
 - [X] For now project will have manual venv creation
 - [ ] However would be nice to have automated script
 - [ ] Attach automated script to Makefile
+
+*** TODO 008 - [/] Add .nojekyll
+:PROPERTIES:
+:ID:       008
+:END:
+
+- [ ] Solving issue on GH
