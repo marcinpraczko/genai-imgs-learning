@@ -1,0 +1,58 @@
+
+006 Elsa Test-01
+================
+
+.. post:: Jan 11, 2024
+   :tags: characters, elsa
+   :category: Realistic Images
+   :author: Marcin Prączko
+   :language: en
+
+Story
+-----
+
+I wanted generated nice image for me 4-years old daugther, and I have to say that I was really suprised
+with result. I didn't expected to see something like that. When I saw this I say to myself ... ``WOW``.
+
+AI Prompt
+---------
+
+   Realistic Image of Elsa from frozen 2 which is making frozen sea,
+   action should happen at night with very nice visible moon and little clouds.
+
+Notes
+-----
+
+- I really like how this was generated - that was for my 4-years daugther.
+
+Generated images
+----------------
+
+006-1
++++++
+
+.. image:: _static/img/006-1.jpeg
+  :width: 512
+  :alt: 006-1.jpeg
+
+006-2
++++++
+
+.. image:: _static/img/006-2.jpeg
+  :width: 512
+  :alt: 006-2.jpeg
+
+006-3
++++++
+
+.. image:: _static/img/006-3.jpeg
+  :width: 512
+  :alt: 006-3.jpeg
+
+006-4
++++++
+
+.. image:: _static/img/006-4.jpeg
+  :width: 512
+  :alt: 006-4.jpeg
+
