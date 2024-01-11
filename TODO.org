@@ -30,7 +30,7 @@
 
 Simple backlog - more complex tasks will be added as Issues in GitHub
 
-** TODO [3/7] [42%] Goal-01 - Page migrated from org-mode to Sphinx+ABLOG
+** TODO [4/8] [50%] Goal-01 - Page migrated from org-mode to Sphinx+ABLOG
 
 *** DONE 001 - [2/2] Create initial sphinx+ablog config
 :PROPERTIES:
@@ -78,9 +78,11 @@ Simple backlog - more complex tasks will be added as Issues in GitHub
 - [ ] However would be nice to have automated script
 - [ ] Attach automated script to Makefile
 
-*** TODO 008 - [/] Add .nojekyll
+*** DONE 008 - [2/2] Add .nojekyll
 :PROPERTIES:
 :ID:       008
 :END:
 
-- [ ] Solving issue on GH
+- State "DONE"       from "TODO"       [2024-01-11 czw 12:24]
+- [X] Solving issue on GH
+- [X] .nojekyll needs to be in /docs folder
