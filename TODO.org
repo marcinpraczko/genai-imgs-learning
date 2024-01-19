@@ -79,6 +79,7 @@ Simple backlog - more complex tasks will be added as Issues in GitHub
 - [ ] Attach automated script to Makefile
 
 *** DONE 008 - [2/2] Add .nojekyll
+
 :PROPERTIES:
 :ID:       008
 :END:
@@ -86,3 +87,25 @@ Simple backlog - more complex tasks will be added as Issues in GitHub
 - State "DONE"       from "TODO"       [2024-01-11 czw 12:24]
 - [X] Solving issue on GH
 - [X] .nojekyll needs to be in /docs folder
+
+** DONE 009 - [4/4] Improve work with Gen-AI blog
+:PROPERTIES:
+:ID:       009
+:END:
+- State "DONE"       from "WIP"        [2024-01-11 czw 22:43]
+:LOGBOOK:
+CLOCK: [2024-01-11 czw 21:54]--[2024-01-11 czw 22:43] =>  0:49
+CLOCK: [2024-01-11 czw 21:27]--[2024-01-11 czw 21:54] =>  0:27
+:END:
+
+I've created few places with context and would be nice to combine that
+
+- [X] Create tmuxp - with folders which are part of project
+- [X] Test tmuxp load
+  - [X] From local folder
+  - [X] Rebuild cache
+  - [X] Load from cache
+- [X] Create simple bash script for checking hashes / sort by hash
+- [X] Create goss test - for migrating images between projects
+  - [X] If image exists in one folder, should not exist in another
+  - [X] Idea was ok - however too long - done with simple script

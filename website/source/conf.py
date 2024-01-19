@@ -26,7 +26,11 @@ html_static_path = ['_static']
 # -- ABLOG --
 post_auto_image = 1
 html_theme_options = {
-    "navigation_with_keys": False
+    "navigation_with_keys": False,
+    "navbar_align": "right",
+    "logo": {
+        "text": "Marcin Prączko Gen AI for Images blog",
+    }
 }
 html_sidebars = {
    '**': ['ablog/postcard.html', 'ablog/recentposts.html',
