@@ -14,3 +14,5 @@ venv/
 /website/build/
 /website/source/to_review/
 /website-to-sort
+/docs/
+/public/

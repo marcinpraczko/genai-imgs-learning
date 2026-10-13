@@ -1,0 +1,19 @@
+[project]
+name = "genai-imgs-learning"
+version = "0.1.0"
+description = "Learning to use Generative AI for images - Sphinx + ABlog website"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ablog==0.11.11",
+    "pydata-sphinx-theme==0.16.1",
+    "Sphinx==8.0.2",
+]
+
+[dependency-groups]
+dev = [
+    "flake8",
+]
+
+[tool.uv]
+package = false

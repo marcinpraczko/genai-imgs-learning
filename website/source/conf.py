@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Learning to use Generative AI for images'
-copyright = '2024, Marcin Prączko'
+copyright = '2024-2026, Marcin Prączko'
 author = 'Marcin Prączko'
 release = '0.1.0'
 
@@ -16,12 +16,10 @@ release = '0.1.0'
 
 extensions = [
     "ablog",
-    "sphinx.ext.intersphinx",
-    "sphinx_panels",
 ]
 
 html_theme = "pydata_sphinx_theme"
-html_static_path = ['_static']
+html_static_path = []
 
 # -- ABLOG --
 post_auto_image = 1
