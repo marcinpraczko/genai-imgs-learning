@@ -1,0 +1,24 @@
+stages:
+  - build
+
+variables:
+  UV_CACHE_DIR: "$CI_PROJECT_DIR/.cache/uv"
+  UV_LINK_MODE: copy
+
+pages:
+  stage: build
+  image: python:3.11-slim
+  before_script:
+    - apt-get update -qq && apt-get install -y -qq make
+  cache:
+    key: "$CI_COMMIT_REF_SLUG"
+    paths:
+      - .cache/uv
+  script:
+    - make build-pages
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
+
